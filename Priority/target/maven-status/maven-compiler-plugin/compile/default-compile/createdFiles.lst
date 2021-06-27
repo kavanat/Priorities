@@ -1,0 +1,10 @@
+com\tatsum\Priority\controller\MainController.class
+com\tatsum\Priority\model\User.class
+com\tatsum\Priority\PriorityApplication.class
+com\tatsum\Priority\service\CategoryService.class
+com\tatsum\Priority\model\Order.class
+com\tatsum\Priority\repository\UserRepository.class
+com\tatsum\Priority\repository\CategoryRepository.class
+com\tatsum\Priority\model\Category.class
+com\tatsum\Priority\service\UserService.class
+com\tatsum\Priority\SpringConfig.class
